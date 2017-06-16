@@ -1,0 +1,1 @@
+huffman coding is a lossless data compression. In this code the given input is a pixel matrix and it is been compressed using two methods and ratio of compression of the two methods is given as the output.
